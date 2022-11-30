@@ -21,19 +21,11 @@ In a nutshell, I love to explore new topics with the help of private projects! I
 </br>
 
 ## Rapidfire  
-<table><tr><td valign="center" width="50%">
 
 - 🔭 I'm currently into Machine Learning and Data Science  
 - 🌱 I’m trying to structure all new learnings on [Medium](https://medium.com/@marcok87)  
 - ⚡ Fun fact: xxx
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
 </br>
 
 ## Languages and Tools  
