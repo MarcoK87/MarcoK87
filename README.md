@@ -17,13 +17,13 @@
 ### Glad to see you here!  
 I am very versatile interested, like to get to the bottom of things and always looking for new challenges! 
 
-In a nutshell, I love to explore new topics with the help of private projects! In doing so, I like to try out current trends and techniques, try to use modern workflows and, above all, have fun. From now on, this repo shall help to put all these things in an orderly and structured way. 
+In a nutshell, I love to explore new topics with the help of private projects! In doing so, I like to try out current trends and techniques, try to use modern workflows and, above all, have fun.
 </br>
 
 ## Rapidfire  
 
 - 🔭 I'm currently into Machine Learning and Data Science  
-- 🌱 I’m trying to structure all new learnings on [Medium](https://medium.com/@marcok87)  
+- 🌱 Structuring all new learnings on [Medium](https://medium.com/@marcok87)  
 - ⚡ Fun fact: xxx
 
 </br>
